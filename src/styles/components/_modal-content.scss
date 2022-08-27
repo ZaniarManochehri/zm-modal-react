@@ -1,0 +1,13 @@
+.modal-content {
+  min-height: 45vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+
+  span{
+    font-weight: bold;
+    font-size: 16px;
+  }
+}

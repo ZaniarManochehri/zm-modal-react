@@ -1,7 +1,12 @@
 @import "./variables";
 
+//styles
+@import "./styles";
+
 //pages
 @import "./pages/home";
 
 //components
-@import "./components/ui/button"
+@import "./components/modal-content";
+//ui
+@import "./components/ui/button";
