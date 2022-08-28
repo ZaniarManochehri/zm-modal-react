@@ -1,5 +1,4 @@
-![modal](https://user-images.githubusercontent.com/49729648/187063581-79829928-4e00-45e9-aae9-e2ee9d8eecdc.gif)
-
+![modal](https://user-images.githubusercontent.com/49729648/187065045-888652ce-fe23-4ad4-8405-be81acd094f4.gif)
 
 # Getting Started with Create React App
 
